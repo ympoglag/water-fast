@@ -188,6 +188,11 @@ Felt better after taking an ALCAR.
 Probably took too many supplements/pills at once, because I currently have
 **diarrhea**.
 
+My stomach grumbled/grumbles before I have to run to the toilet.
+
+The first time it rubmled I felt something like a stomach cramp, which I haven't
+felt in ages.
+
 First poops were soft'ish, from then on, only liquid poops.
 
 Went 2 times within 10 minutes now, let's see how it progresses.
