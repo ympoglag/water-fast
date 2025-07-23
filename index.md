@@ -164,10 +164,27 @@ That seems unusual to me.
 **BP**:
 118 SYS 70 DIA 86 PUL
 
+### 23:28
+Fell asleep.
+
 ## 23.07.2025
 
-### 08:32
+### 08:20
 Rise.
+
+**Sleep**:
+
+- **Total**: 8 h 41 min
+- **Deep Sleep**: 2 h 24 min
+- **Light Sleep**: 4 h 2 min
+- **REM sleep**: 2 h 15 min
+- **Awake**: 2 times/11 min
+- **Sleep Score**: 88/100
+- *Respiratory Rate*: 9-16 brpm
+- *Heart Rate*: 46-86 bpm
+- *Blood oxygen*: 98-99%
+
+### 08:32
 
 **BP**:
 110 SYS 64 DIA 88 PUL
