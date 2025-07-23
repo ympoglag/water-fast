@@ -208,6 +208,9 @@ for 1+ days now.
 
 Let's see how it continues.
 
+Headaches are still here and especially POTS-like circulation "issues" when
+lying/standing up.
+
 ## 24.07.2025
 
 ## 25.07.2025
