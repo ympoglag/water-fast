@@ -190,6 +190,10 @@ Probably took too many supplements/pills at once, because I currently have
 
 First poops were soft'ish, from then on, only liquid poops.
 
+Went 2 times within 10 minutes now, let's see how it progresses.
+
+Otherwise feeling, okay.
+
 ## 24.07.2025
 
 ## 25.07.2025
