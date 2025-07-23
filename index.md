@@ -182,6 +182,12 @@ Still feeling cold very easily.
 Lying down makes things easier.  
 Sitting or Standing gives me headaches and weakness quickly.
 
+### 12:27
+Felt better after taking an ALCAR.
+
+Probably took too many supplements/pills at once, because I currently have
+diarrhea.
+
 ## 24.07.2025
 
 ## 25.07.2025
