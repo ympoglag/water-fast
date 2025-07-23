@@ -206,6 +206,8 @@ Otherwise feeling, okay.
 I'm pretty surprised how "well" I'm doing despite not having taken any Vyvanse
 for 1+ days now.
 
+Let's see how it continues.
+
 ## 24.07.2025
 
 ## 25.07.2025
