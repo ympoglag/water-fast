@@ -186,7 +186,7 @@ Sitting or Standing gives me headaches and weakness quickly.
 Felt better after taking an ALCAR.
 
 Probably took too many supplements/pills at once, because I currently have
-diarrhea.
+**diarrhea**.
 
 ## 24.07.2025
 
