@@ -203,6 +203,9 @@ Otherwise feeling, okay.
 **BP**:
 119 SYS 66 DIA 91 PUL
 
+I'm pretty surprised how "well" I'm doing despite not having taken any Vyvanse
+for 1+ days now.
+
 ## 24.07.2025
 
 ## 25.07.2025
