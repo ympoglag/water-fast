@@ -188,6 +188,8 @@ Felt better after taking an ALCAR.
 Probably took too many supplements/pills at once, because I currently have
 **diarrhea**.
 
+First poops were soft'ish, from then on, only liquid poops.
+
 ## 24.07.2025
 
 ## 25.07.2025
