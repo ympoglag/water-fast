@@ -211,6 +211,8 @@ Let's see how it continues.
 Headaches are still here and especially POTS-like circulation "issues" when
 lying/standing up.
 
+My pulse is still pretty high.
+
 ## 24.07.2025
 
 ## 25.07.2025
