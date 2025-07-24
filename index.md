@@ -286,6 +286,12 @@ before the water fast).
 
 So far so good.
 
+### 15:02
+**Weight**: 63.1 kg
+
+**BP**:
+121 SYS 73 DIA 90 PUL
+
 ## 25.07.2025
 
 ## 26.07.2025
