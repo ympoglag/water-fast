@@ -241,7 +241,45 @@ is manageable.
 
 Otherwise, feeling fairly good, also energy wise.
 
+### 13:40
+A smell from outside my window crept into my room and now I'm terribly hungry
+again.
+
+You really need to shield your senses.
+
+I also stood up from lying down in my bed and my vision went black and I fell
+back into bed. (:
+
+### 15:00~
+Starting to feel pretty decent.
+
+### 17:35
+**BP**:
+119 SYS 65 DIA 93 PUL
+
+### 01:28
+Sleep
+
 ## 24.07.2025
+
+### 09:49
+Rise.
+
+**Sleep**:
+
+- **Total**: 8 h 12 min
+- **Deep Sleep**: 1 h 57 min
+- **Light Sleep**: 4 h 14 min
+- **REM sleep**: 2 h 1 min
+- **Awake**: 1 times/9 min
+- **Sleep Score**: 88/100
+- *Respiratory Rate*: 8-18 brpm
+- *Heart Rate*: 45-78 bpm
+- *Blood oxygen*: 97-99%
+
+### 00:00
+**BP**:
+116 SYS 65 DIA 89 PUL
 
 ## 25.07.2025
 
