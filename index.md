@@ -298,6 +298,10 @@ It was really really good, even tho I was dragging myself around somehwat.
 
 Reminder to go outside and go for walks, even when you don't feel like it.
 
+## 20:29
+**BP**:
+103 SYS 55 DIA 66 PUL
+
 ## 25.07.2025
 
 ## 26.07.2025
