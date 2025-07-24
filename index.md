@@ -277,9 +277,14 @@ Rise.
 - *Heart Rate*: 45-78 bpm
 - *Blood oxygen*: 97-99%
 
-### 00:00
+### 11:49
 **BP**:
 116 SYS 65 DIA 89 PUL
+
+Feeling weak, no headache's so far, neck is still fairly stiff (like it was
+before the water fast).
+
+So far so good.
 
 ## 25.07.2025
 
