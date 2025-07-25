@@ -169,6 +169,13 @@ Fell asleep.
 
 ## 23.07.2025
 
+**Summary**
+
+- Felt cold easily.
+- Got diarrhea after drinking too much/too high salt water.
+- Surprised how "well" I was doing.
+- Experienced quite some hunger and hypersensitive to food smells/looks.
+
 ### 08:20
 Rise.
 
@@ -261,6 +268,14 @@ Starting to feel pretty decent.
 Sleep
 
 ## 24.07.2025
+
+**Summary**
+
+- Felt okay during the day.
+- Dragged myself to do a walk, which felt okay during but was exhausted after.
+- Felt very very weak and hypotense at evening/night.  
+  Lowest blood pressure recording so far, made me anxious, but everything ended
+  up well in the end.
 
 ### 09:49
 Rise.
