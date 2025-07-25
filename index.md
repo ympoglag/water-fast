@@ -376,7 +376,8 @@ which is not enough to break the fast massively.
 	50-100 kcal are said to likely maintain a reduced but still active autophagy state.
 	100-200+ kcal are said to break autophagy.
 
-Taking ALCAR on a water fast seems like a bad idea, maybe.
+Taking ALCAR on a water fast seems like a bad idea, depending on how susceptible
+you are to genital pain (maybe).
 
 ### 09:43
 **Weight**: 63.0 kg
