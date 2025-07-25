@@ -292,17 +292,51 @@ So far so good.
 **BP**:
 121 SYS 73 DIA 90 PUL
 
-## 17:08
+### 17:08
 Went outside for a small walk (40min).  
 It was really really good, even tho I was dragging myself around somehwat.
 
 Reminder to go outside and go for walks, even when you don't feel like it.
 
-## 20:29
+### 20:29
 **BP**:
 103 SYS 55 DIA 66 PUL
 
+### 23:27
+Sleep
+
+Feeling really weak and hypotense.
+
+### 01:35
+Woke up.
+
+Was very worried about my hypotension and felt anxious of losing consciousness.
+
+Unlocked my front door.
+
+Messaged friends that if I don't send something in the next 10 hours, they
+should call an ambulance.
+
+This allowed me to calm down and go back to sleep.
+
 ## 25.07.2025
+
+### 08:07
+Rise.
+
+Feeling much better than yesterday night.
+
+**Sleep**:
+
+- **Total**: 8 h 28 min
+- **Deep Sleep**: 2 h 25 min
+- **Light Sleep**: 4 h 5 min
+- **REM sleep**: 1 h 48 min
+- **Awake**: 2 times/12 min
+- **Sleep Score**: 89/100
+- *Respiratory Rate*: 8-15 brpm
+- *Heart Rate*: 44-62 bpm
+- *Blood oxygen*: 97-99%
 
 ## 26.07.2025
 
