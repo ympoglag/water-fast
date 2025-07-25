@@ -276,6 +276,8 @@ Sleep
 - Felt very very weak and hypotense at evening/night.  
   Lowest blood pressure recording so far, made me anxious, but everything ended
   up well in the end.
+- In the end realized I didn't drink 3-4 Liters of Water that day (more like
+  2~), which also could've explained the weakness.
 
 ### 09:49
 Rise.
@@ -322,6 +324,14 @@ Sleep
 
 Feeling really weak and hypotense.
 
+I realized I didn't drink 3-4 Liter during the day!
+
+This might've also been due to that.
+
+### 00:50
+**BP**:
+112 SYS 59 DIA 52 PUL
+
 ### 01:35
 Woke up.
 
@@ -339,7 +349,7 @@ This allowed me to calm down and go back to sleep.
 ### 08:07
 Rise.
 
-Feeling much better than yesterday night.
+Feeling better than yesterday night.
 
 **Sleep**:
 
@@ -352,6 +362,10 @@ Feeling much better than yesterday night.
 - *Respiratory Rate*: 8-15 brpm
 - *Heart Rate*: 44-62 bpm
 - *Blood oxygen*: 97-99%
+
+### 08:30
+**BP**:
+110 SYS 56 DIA 77 PUL
 
 ## 26.07.2025
 
