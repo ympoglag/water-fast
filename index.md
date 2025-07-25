@@ -367,5 +367,25 @@ Feeling better than yesterday night.
 **BP**:
 110 SYS 56 DIA 77 PUL
 
-## 26.07.2025
+### 09:38
+Took an ALCAR while lying down and had short massive genital pain.
 
+Sorta paniced and ingested my glass of beeth broth (which gave me ~37.4kcal) -
+which is not enough to break the fast massively.
+
+	50-100 kcal are said to likely maintain a reduced but still active autophagy state.
+	100-200+ kcal are said to break autophagy.
+
+Taking ALCAR on a water fast seems like a bad idea, maybe.
+
+### 09:43
+**Weight**: 63.0 kg
+
+### 09:57
+Feeling better.
+
+### 10:55
+**BP**:
+108 SYS 62 DIA 72 PUL
+
+## 26.07.2025
