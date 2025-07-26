@@ -56,9 +56,9 @@ with the hatred of a thousand suns.
 I bought a glass of ready-made beef broth with which I plan to break the fast,
 gently (includes carbohydrates, protein, fat).
 
-(It's < 50kcal, which actually won't break the fast, for that you need >100 -
-however beef broths do lower/break autophagy - it wil break autophagy for up to
-~8 hours).
+(It's < 50kcal, which actually won't break the fast (< 20kcal to not break
+substantial autophagy), for that you need >100 - however beef broths do
+lower/break autophagy - it wil break autophagy for up to ~8 hours).
 
 ### What to do for 5 days
 Light exercise (best going for a simple walk) should be good to try to fight the
