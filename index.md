@@ -16,22 +16,29 @@ with the hatred of a thousand suns.
 - Not eating anything caloric for 5 days. But drink 3-4L of water per day.
 - Stopping my daily 20mg of Vyvanse use alongside. (Attempt/Optional, might be
   too much - I'll see)
-- Supplements/Meds daily:
-  + ALCAR (500mg)
+- Initial Supplements/Meds daily:  
+  (**NOTE:** I changed these after 4 days, see **[#Switch of
+  Plans](#switch-of-plans)**)
+
+  + ALCAR (500mg) - *(later dropped)*
   + Allegra (2x 120mg)
   + Quercetin (1x)
-  + Magnesium Threonate (2x, morning, night)
+  + Magnesium Threonate (1x, night)
 
 - I have my pulse wrist watch and I'll measure blood pressure 3x a day. When
   either get dangerously low, I'll break it (partially or fully depending on
   severity).
 
-- For ElEcTrOlYtEs (actually an issue if you don't watch it) - I have:
-  + Potassium Chloride
-  + Salt
-  + Magnesium
+- For ElEcTrOlYtEs (actually an issue if you don't watch it) - I drink 3L water,
+  including:
 
-  I'll create mixes of these at some points and drink them.
+  + 3g Potassium Chloride
+  + 9g Salt
+  + 2g Magnesium Chloride (I got in my pharmacy very cheap) (= 240mg of Magnesium)
+  + *Optional*: 40g of lime OR  
+                3-5 slices of thin cucumber
+
+  I plan to drink 250ml every 50min.
 
 ### Breaking the Fast
 I bought a glass of ready-made beef broth with which I plan to break the fast,
