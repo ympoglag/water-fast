@@ -512,3 +512,57 @@ I will add 2 more days with a change in protocol, as I think I have accidentally
 ## 27.07.2025
 
 ## 28.07.2025
+
+## Refeeding General Guidelines
+- Chew everything very well.
+- Keep portions *small* at first, especially high-fiber foods (brussel sprouts, popcorn).
+- Eat slowly, pause if you feel full, bloated, or have stomach pain.
+- If any discomfort, return to bananas, eggs, and Skyr for a meal or two.
+- Stay hydrated with water and electrolytes.
+
+**If you experience GI symptoms, slow down and return to the easiest foods.**
+
+## 29.07.2025 - Refeeding - Day 1
+
+### Morning (Breakfast)
+- 1/4–1/2 banana, well-chewed  
+  *Gentle sugar, easy on stomach.*
+- Wait 1 hour to check tolerance.
+
+### Midday (Lunch)
+- 1 egg, boiled or poached  
+  *Easy protein, digestible.*
+- Small portion (3–4) brussel sprouts, steamed until soft  
+  *Optional: skip if you feel any bloat or cramps (high fiber).*
+
+### Afternoon (Snack)
+- 2–3 tbsp Skyr (plain, unsweetened)  
+  *Probiotic, gentle dairy protein.*
+
+### Evening (Dinner)
+- 1 egg, scrambled with a few slices of soft-cooked onion  
+  *Minimal oil, no butter or cheese yet.*
+- Small handful of noodles (plain, well-cooked—no sauce yet).
+
+## 30.07.2025 - Refeeding - Day 2
+
+### Morning (Breakfast)
+- 1/2 banana (if tolerated on Day 1)
+- 3–4 tbsp Skyr
+- Small amount of cooked onion (if liked, with Skyr or alone)
+
+### Midday (Lunch)
+- 1–2 eggs, soft-boiled, or a simple omelette with onion
+- 6–8 brussel sprouts, steamed/boiled until very soft  
+  *If bloating, have less or skip.*
+
+### Afternoon (Snack)
+- Small handful of popcorn (plain, air-popped, no butter or oil)  
+  *Introduce fiber gently; skip or reduce if any bloating/gas.*
+
+### Evening (Dinner)
+- Noodles with tomato sugo  
+  - Noodles, well-cooked  
+  - Tomato sugo: basic sauce (tomato, onion, a splash of olive oil, herbs)  
+  - Optional: add steamed onion or a small amount of brussel sprouts to sauce if tolerated.
+
