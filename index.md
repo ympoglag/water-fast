@@ -37,6 +37,10 @@ with the hatred of a thousand suns.
 I bought a glass of ready-made beef broth with which I plan to break the fast,
 gently.
 
+(It's < 50kcal, which actually won't break the fast, for that you need >100 -
+however beef broths do lower/break autophagy - it wil break autophagy for up to
+~8 hours).
+
 ### What to do for 5 days
 Light exercise (best going for a simple walk) should be good to try to fight the
 depression and malaise caused by Vyvanse withdrawal and lack of food before
@@ -417,3 +421,55 @@ Rise.
 
 **BP**:
 101 SYS 69 DIA 83 PUL
+
+### 11:00~
+Consumed another beef broth (bad idea).
+
+## Switch of Plans
+I have expected some results the last 2 days, but those haven't happened.
+
+I will add 2 more days with a change in protocol, as I think I have accidentally lessened autophagy:
+
+- Consuming the beef broth was a **bad idea** and likely broke
+  autophagy for ~8 hours.  
+  I confused it with 'beef bone broth' and even those need to be pure, which I
+  can't buy anywhere nearby me, so autophagy safe bone broth's are no option.
+
+  (Making them yourself requires buying and simmering beef bones for 36hours,
+  which is way too long and tedious to make now, maybe next time I will make
+  sume and freeze them for later usage, but as I'm currently in the weakness of
+  my fast, it's not an option)
+
+- Moving too much was a bad idea, my muscles hurt after it which implies that
+  I've broke down muscle. 15-30min of light walking is enough and not
+  more - I will target 15min - best done not late (last time I walked late I
+  slept worse).
+
+- Playing video games too much likely raised Cortisol and was a bad idea, I
+  won't play games anymore now.
+
+- ALCAR is a bad idea, I will not use it for the next 2 days.
+
+- Green Tea is not only Autophagy safe, but actually helps Autophagy, I will
+  drink (2-3 cups of 240 mL each, steeped lightly).
+
+- I have finally gone through all the supplements I inteded to take and now will
+  end up with the following:
+
+  + Quercetin 500 mg/day (best taken in the morning with water)
+
+  + Curcuma Extract 500-1000 mg/day, morning or midday, maybe with green tea (should be paired with black pepper extract (piperine))
+
+  + Magnesium L-Threonat 500-1000 mg, evening
+
+  + Theanine 200-400 mg, evening, sleep
+
+  + Allegra 120mg (Antihistamine), whenever
+
+  + Desloratadin (Antihistamine), whenever
+
+  These should **NOT** be taken:
+
+  + CDP Choline (technically breaks the fast due to calories)
+
+  + Bifidobacterium bifidum (breaks the fast, use for refeeding afterwards)
