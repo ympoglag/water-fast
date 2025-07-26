@@ -350,6 +350,14 @@ This allowed me to calm down and go back to sleep.
 
 ## 25.07.2025
 
+**Summary**
+
+- Felt better after waking up.
+- Taking ALCAR caused some sudden genital pain, I panicked and ingested my beeth
+  broth.
+- Felt better thereafter, visited a friend and spent the day with him.
+- Took an evening walk that was likely too much and made my following sleep worse.
+
 ### 08:07
 Rise.
 
@@ -425,6 +433,12 @@ Rise.
 ### 11:00~
 Consumed another beef broth (bad idea).
 
+### 13:21
+Consumed some coffee (doesn't break fast or autophagy).
+
+**BP**:
+116 SYS 70 DIA 80 PUL
+
 ## Switch of Plans
 I have expected some results the last 2 days, but those haven't happened.
 
@@ -473,3 +487,7 @@ I will add 2 more days with a change in protocol, as I think I have accidentally
   + CDP Choline (technically breaks the fast due to calories)
 
   + Bifidobacterium bifidum (breaks the fast, use for refeeding afterwards)
+
+## 27.07.2025
+
+## 28.07.2025
