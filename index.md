@@ -389,4 +389,31 @@ Feeling better.
 **BP**:
 108 SYS 62 DIA 72 PUL
 
+### 11:31
+Slight headache again, this might not be a bad sign tho.
+
+### 23:45
+Sleep
+
 ## 26.07.2025
+
+### 08:52
+Rise.
+
+**Sleep**:
+
+- **Total**: 9 h 7 min
+- **Deep Sleep**: 1 h 39 min
+- **Light Sleep**: 5 h 17 min
+- **REM sleep**: 2 h 11 min
+- **Awake**: 0 times/0 min
+- **Sleep Score**: 82/100
+- *Respiratory Rate*: 8-17 brpm
+- *Heart Rate*: 46-82 bpm
+- *Blood oxygen*: 98-99%
+
+### 09:32
+**Weight**: 61.5 kg
+
+**BP**:
+101 SYS 69 DIA 83 PUL
