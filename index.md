@@ -32,13 +32,25 @@ with the hatred of a thousand suns.
 - For ElEcTrOlYtEs (actually an issue if you don't watch it) - I drink 3L water,
   including:
 
-  + 3g Potassium Chloride
-  + 9g Salt
+  + 2g Potassium Chloride
+  + 8g Salt
   + 2g Magnesium Chloride (I got in my pharmacy very cheap) (= 240mg of Magnesium)
   + *Optional*: 40g of lime OR  
                 3-5 slices of thin cucumber
 
   I plan to drink 250ml every 50min.
+
+  ---
+
+  **❗** These can be shifted according while **Monitoring Symptoms**:
+
+  | Symptom              | Possible Cause      | Fix
+  | ---                  | ---                 | ---
+  | Lightheadedness      | Low sodium          | Slightly increase salt (to 9g)
+  | Muscle twitch/cramps | Low Mg or K         | Ensure you’re not skipping magnesium
+  | Palpitations         | Potassium imbalance | Split KCl into 3–4 doses over the day
+  | Cold hands/feet      | Low sodium/glucose  | Salt usually helps, or gentle refeed
+
 
 ### Breaking the Fast
 I bought a glass of ready-made beef broth with which I plan to break the fast,
@@ -473,6 +485,8 @@ I will add 2 more days with a change in protocol, as I think I have accidentally
 
 - Green Tea is not only Autophagy safe, but actually helps Autophagy, I will
   drink (2-3 cups of 240 mL each, steeped lightly).
+
+- I have finally measured a correct electrolyte water mix, see [#How](#how)
 
 - I have finally gone through all the supplements I inteded to take and now will
   end up with the following:
