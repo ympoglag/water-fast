@@ -35,7 +35,7 @@ with the hatred of a thousand suns.
 
 ### Breaking the Fast
 I bought a glass of ready-made beef broth with which I plan to break the fast,
-gently.
+gently (includes carbohydrates, protein, fat).
 
 (It's < 50kcal, which actually won't break the fast, for that you need >100 -
 however beef broths do lower/break autophagy - it wil break autophagy for up to
