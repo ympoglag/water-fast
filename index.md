@@ -459,6 +459,10 @@ Consumed some coffee (doesn't break fast or autophagy).
 **BP**:
 116 SYS 70 DIA 80 PUL
 
+### 01:02
+**BP**:
+117 SYS 74 DIA 59 PUL
+
 ### 01:14
 Sleep
 
