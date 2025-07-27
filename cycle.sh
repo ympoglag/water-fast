@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 set -eo pipefail
 set -x
-./convert.sh
+./build.sh
 git-wip-commitpush
