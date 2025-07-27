@@ -34,7 +34,9 @@ with the hatred of a thousand suns.
 
   + 2g Potassium Chloride
   + 8g Salt
-  + 2g Magnesium Chloride (I got in my pharmacy very cheap) (= 240mg of Magnesium)
+  + 2g Magnesium Chloride (I got in my pharmacy *very* cheap) (= 240mg of Magnesium)  
+    *Make sure to store it in a sealed glass, not a paper bag, it will melt
+    otherwise, as it will pick up moisture from the surroundings.*
   + *Optional*: 40g of lime OR  
                 3-5 slices of thin cucumber
 
