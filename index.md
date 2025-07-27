@@ -13,7 +13,7 @@ for some and I hope that this would help me narrow what is trying to kill me
 with the hatred of a thousand suns.
 
 ## How
-- Not eating anything caloric for 5 days. But drink 3-4L of water per day.
+- Not eating anything caloric for 7 days. But drink 3-4L of water per day.
 - Stopping my daily 20mg of Vyvanse use alongside. (Attempt/Optional, might be
   too much - I'll see)
 - Initial Supplements/Meds daily:  
@@ -52,7 +52,6 @@ with the hatred of a thousand suns.
   | Muscle twitch/cramps | Low Mg or K         | Ensure you’re not skipping magnesium
   | Palpitations         | Potassium imbalance | Split KCl into 3–4 doses over the day
   | Cold hands/feet      | Low sodium/glucose  | Salt usually helps, or gentle refeed
-
 
 ### Breaking the Fast
 I bought a glass of ready-made beef broth with which I plan to break the fast,
@@ -488,8 +487,10 @@ I will add 2 more days with a change in protocol, as I think I have accidentally
 
 - ALCAR is a bad idea, I will not use it for the next 2 days.
 
-- Green Tea is not only Autophagy safe, but actually helps Autophagy, I will
+- Green Tea is not only autophagy safe, but actually helps autophagy, I will
   drink (2-3 cups of 240 mL each, steeped lightly).
+
+- Pepperment Tea is fasting/autophagy safe, I'll drink 1 cup at evening/night per day.
 
 - I have finally measured a correct electrolyte water mix, see [#How](#how)
 
