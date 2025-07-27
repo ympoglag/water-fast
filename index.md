@@ -458,6 +458,9 @@ Consumed some coffee (doesn't break fast or autophagy).
 **BP**:
 116 SYS 70 DIA 80 PUL
 
+### 01:14
+Sleep
+
 ## Switch of Plans
 I have expected some results the last 2 days, but those haven't happened.
 
@@ -510,6 +513,27 @@ I will add 2 more days with a change in protocol, as I think I have accidentally
   + Bifidobacterium bifidum (breaks the fast, use for refeeding afterwards)
 
 ## 27.07.2025
+
+### 09:42
+Rise
+
+**Sleep**:
+
+- **Total**: 7 h 19 min
+- **Deep Sleep**: 1 h 22 min
+- **Light Sleep**: 4 h 9 min
+- **REM sleep**: 1 h 5 min
+- **Awake**: 2 times/25 min
+- **Sleep Score**: 78/100
+- *Respiratory Rate*: 10-18 brpm
+- *Heart Rate*: 45-71 bpm
+- *Blood oxygen*: 98-99%
+
+### 10:11
+**Weight**: 61.9 kg
+
+**BP**:
+110 SYS 66 DIA 74 PUL
 
 ## 28.07.2025
 
