@@ -538,6 +538,12 @@ Rise
 **BP**:
 110 SYS 66 DIA 74 PUL
 
+### 12:08
+Not feeling all too bad, given the bad sleep I had, but slight headache now.
+
+Drinking fluid regularly turned out to be really important, I have a 80 min
+timer that reminds me to drink 300ml of my 3L Electrolyte Water Mixture.
+
 ## 28.07.2025
 
 ## Refeeding General Guidelines
